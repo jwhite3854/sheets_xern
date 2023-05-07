@@ -1,0 +1,16 @@
+{
+  "name": "react-character-sheets",
+  "version": "1.0.0",
+  "description": "xERN DnD 5e character sheet manager",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mysql2": "^3.3.0"
+  }
+}
